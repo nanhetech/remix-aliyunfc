@@ -6,8 +6,11 @@
   "module": "dist/remix-aliyunfc.mjs",
   "scripts": {
     "build": "rollup -c",
-    "ci:publish": "changeset publish --access public",
+    "ci:publish": "changeset publish",
     "ci:version": "changeset version"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [
     "remixjs",
