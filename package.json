@@ -1,6 +1,6 @@
 {
   "name": "@css-show/remix-aliyunfc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "阿里云函数计算 FC Remixjs 胶水",
   "main": "dist/remix-aliyunfc.js",
   "module": "dist/remix-aliyunfc.mjs",
