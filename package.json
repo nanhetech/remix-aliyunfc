@@ -4,10 +4,7 @@
   "description": "阿里云函数计算 FC Remixjs 胶水",
   "main": "dist/remix-aliyunfc.js",
   "module": "dist/remix-aliyunfc.mjs",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/css-show/remix-aliyunfc"
-  },
+  "homepage": "https://github.com/css-show/remix-aliyunfc",
   "scripts": {
     "build": "rollup -c",
     "ci:publish": "rollup -c && changeset publish",
