@@ -1,5 +1,11 @@
 # @css-show/remix-aliyunfc
 
+## 0.0.4
+
+### Patch Changes
+
+- d6517fa: 修复若干问题
+
 ## 0.0.3
 
 ### Patch Changes
