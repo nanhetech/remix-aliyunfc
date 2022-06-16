@@ -1,5 +1,11 @@
 # @css-show/remix-aliyunfc
 
+## 0.0.5
+
+### Patch Changes
+
+- f193ca5: 修复若干 bug
+
 ## 0.0.4
 
 ### Patch Changes
